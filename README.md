@@ -1,6 +1,6 @@
 # It's fun doing these problems :)
 
 # Author
-"Prasanth Guvvala"
+**Prasanth Guvvala**
 # Contact 
-"Email:-" "guvalaprashanth342@gmail.com"
+**Email:-** guvalaprashanth342@gmail.com
